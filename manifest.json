@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "version": "2.0",
+    "name": "My Anime Base",
+    "description": "Save the titles you want to watch in one list and access it from any tab!<br> Icon from <a href='https://www.flaticon.com/free-icons/popcorn' title='popcorn icons'>Popcorn icons created by Freepik - Flaticon</a>'",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "popcorn.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
